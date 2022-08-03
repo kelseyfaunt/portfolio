@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Kelsey Fauntleroy. I'm a recent graduate from University of North Carolina at Chapel Hill where I recieved my Bachelor's in Computer Science and Mathematics. I have experience with the frameworks React, Boostrap and NextJS. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "I Apply Math",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. IAM is apart Luz Robinson's dissertation at UNC School Psychology. I'm apart of a team where we've built a website that has two mini math games included. It's to help ease elementary students' math anxiety and is accessible in two languages.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://iapplymath.com",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,28 +31,34 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Mental Health Tracking App",
+        "startDate": "2021",
+        "description": "Final project for Modern Web Programming. A mental health tracking app where you can create and keep track of goals you want to accomplish. Users will be able to create an account with a username, email and password which will be entered into our login database. After creating an account the user is automatically sent to create a list of their goals where they are able to delete, edit and check off any item on the list. As well as a settings button that directs them to their account page where they can see their information and delete their account if desired.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/comp426-2022-spring/a99-fulu",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Emotion Classification",
+        "startDate": "2022",
+        "description": "My first major project with Machine Learning. The goal of this project is to be able to classify the emotion behind a given text, so a computer or another person can take an appropriate action based on the resulting emotion from the classifier.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
+        "url": "https://github.com/ReneeDu320/Emotion-Classification"
       }
     ],
     "experience": [
